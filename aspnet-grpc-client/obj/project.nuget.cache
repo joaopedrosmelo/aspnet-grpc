@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "vizd/KqsHhDpz/h7XzWcGK1wQlxzkxM6sA9UaYF1uXpc67ZjqfYnZFZQsXfS43cuIKUr6FJzK0yo6/RKJkWa/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaop\\source\\repos\\Blog\\gRPC\\aspnet-grpc\\aspnet-grpc-client\\aspnet-grpc-client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaop\\.nuget\\packages\\google.protobuf\\3.27.0\\google.protobuf.3.27.0.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\grpc.aspnetcore\\2.57.0\\grpc.aspnetcore.2.57.0.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\grpc.aspnetcore.server\\2.57.0\\grpc.aspnetcore.server.2.57.0.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\grpc.aspnetcore.server.clientfactory\\2.57.0\\grpc.aspnetcore.server.clientfactory.2.57.0.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\grpc.core\\2.46.6\\grpc.core.2.46.6.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\grpc.core.api\\2.63.0\\grpc.core.api.2.63.0.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\grpc.net.client\\2.63.0\\grpc.net.client.2.63.0.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\grpc.net.clientfactory\\2.57.0\\grpc.net.clientfactory.2.57.0.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\grpc.net.common\\2.63.0\\grpc.net.common.2.63.0.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.extensions.http\\6.0.0\\microsoft.extensions.http.6.0.0.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
